@@ -1,0 +1,8 @@
+1. git clone your repository link
+2. git add .
+3. git commit -m"Any Message"
+4. git push
+
+Optional Commands...
+1. git config --global user.email "your github email"
+2. git config --global user.name "Your github user Name"
